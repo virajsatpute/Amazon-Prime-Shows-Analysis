@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on analyzing Amazon Prime shows using an interactive Power BI dashboard. The analysis covers key aspects such as total genres, ratings, directors, and show distribution by release year and country. Insights aim to support content strategy and enhance user experience.
 
-Dashboard Preview
+## Dashboard Preview
 ![Screenshot 2024-12-20 124409](https://github.com/user-attachments/assets/a10b74c5-1079-4c88-9db4-7051ea856502)
 
 ## Features
